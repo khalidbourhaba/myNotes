@@ -24,11 +24,12 @@ npm install -g @aws-amplify/cli
 
 ##### 2. Configure your AWS Amplify CLI
 
+See my [medium](https://medium.com/@khalidbourhaba/mobile-development-go-serverless-with-aws-amplify-a-game-changer-tutorial-c3b94b63282b) article for step by step configuring. Or check out this [video](https://www.youtube.com/watch?v=fWbM5DLh25U&feature=emb_title) from the official documentation.
+
+
 ```
 amplify configure 
 ```
-
-See my [medium]() article for step by step configuring. Or check out this [video](https://www.youtube.com/watch?v=fWbM5DLh25U&feature=emb_title) from the official documentation.
 
 ##### 3. Clone this repo using "amplify init -app" magic command:
 
