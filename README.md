@@ -53,5 +53,4 @@ The --app flag enables you to clone the GitHub repo, initilize the amplify proje
 ![homescreen](https://github.com/khalidbourhaba/myNotes/blob/master/assets/preview/homescreen.png)
 ![login](https://github.com/khalidbourhaba/myNotes/blob/master/assets/preview/login.png)
 ![register](https://github.com/khalidbourhaba/myNotes/blob/master/assets/preview/register.png)
-![dashboard](https://github.com/khalidbourhaba/myNotes/blob/master/assets/preview/dashboard.png)
 ![add_list_note](https://github.com/khalidbourhaba/myNotes/blob/master/assets/preview/add_list_note.png)
