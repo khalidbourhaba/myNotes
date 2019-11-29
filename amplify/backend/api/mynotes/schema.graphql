@@ -1,0 +1,9 @@
+type Note 
+@model
+@key(name: "byName", fields: ["username", "id"],  queryField: "notesByUserName")
+{
+    id: ID!
+    description: String!
+    createdAt: AWSDateTime
+    username: String!
+}
